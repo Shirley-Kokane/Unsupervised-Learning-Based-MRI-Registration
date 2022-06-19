@@ -9,4 +9,4 @@ voxels with a similar appearance while enforcing smoothness constraints on the r
 
 We propose a novel registration method that learns a parameterized registration function from a collection of volumes. We implement the function using a convolutional neural network (CNN), that takes two n-D input volumes and outputs a mapping of all voxels of one volume to another volume.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Shirley-Kokane/Unsupervised-Learning-Based-MRI-Registration/blob/main/register.png)
