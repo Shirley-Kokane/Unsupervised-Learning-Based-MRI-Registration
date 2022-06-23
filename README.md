@@ -16,7 +16,7 @@ There are two types of algorithms in image registration. First is Rigid Image Re
 
 DIR methods are employed when RIR cannot perform the desired task. They can be used to analysis and comparison of medical structures between the scans. Such analysis is used to assess and understand the evolution of brain anatomy over time for individuals with the disease. Deformable registration strategies often involve two steps: an initial affine transformation for global alignment, followed by a much slower deformable transformation with more degrees of freedom. We concentrate on the latter step, in which we compute a dense, nonlinear correspondence for all pixels.
 
-![alt text][https://github.com/Shirley-Kokane/Unsupervised-Learning-Based-MRI-Registration/blob/main/download.png]
+![alt text](https://github.com/Shirley-Kokane/Unsupervised-Learning-Based-MRI-Registration/blob/main/download.png)
 
 ## How to use
 
